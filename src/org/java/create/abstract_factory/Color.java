@@ -1,7 +1,6 @@
 package org.java.create.abstract_factory;
 
-interface Shape {
+public interface Color {
 
-	public void draw();
-
+	public void fill();
 }
